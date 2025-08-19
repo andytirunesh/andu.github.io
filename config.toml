@@ -1,5 +1,5 @@
 relativeURLs = true
-baseURL  = "https://<your-username>.github.io/"
+baseURL  = "https://github.com/andytirunesh/andu.github.io/"
 title    = "Andu Berha"
 shortbio = "PhD Candidate, University of Alberta · Consultant, World Bank · Doctoral Fellow, CAPI"
 logo     = "profile.jpg"   # put your headshot at content/profile.jpg
