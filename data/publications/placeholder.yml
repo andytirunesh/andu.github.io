@@ -1,0 +1,8 @@
+works:
+  - title: "Title — Your Published Article Here"
+    book: "Journal, Year"
+    links:
+      - url: "https://doi.org/DOI-GOES-HERE"
+        text: "Publisher"
+    abstract: >
+      Add a 2–3 sentence abstract or summary here.
