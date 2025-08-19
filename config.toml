@@ -1,5 +1,9 @@
 relativeURLs = true
-title = "Gautam Rao"
+baseURL  = "https://<your-username>.github.io/"
+title    = "Andu Berha"
+shortbio = "PhD Candidate, University of Alberta · Consultant, World Bank · Doctoral Fellow, CAPI"
+logo     = "profile.jpg"   # put your headshot at content/profile.jpg
+
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
