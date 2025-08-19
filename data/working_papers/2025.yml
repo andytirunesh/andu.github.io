@@ -1,0 +1,22 @@
+works:
+  - title: "Market Access, Farm Size, and Agricultural Productivity: Evidence from India’s PMGSY Rural Roads"
+    note: "Job Market Paper, 2025"
+    links:
+      - url: "https://papers.ssrn.com/"
+        text: "Latest Draft"
+        note: "Current version on SSRN"
+    abstract: >
+      We examine how initial farm-size distribution conditions productivity gains from new rural roads that improved market access in India.
+      Combining administrative PMGSY records with district-level crop statistics, we estimate a staggered difference-in-differences with continuous exposure.
+      Average gains are modest and mask striking heterogeneity: districts with commercializable farm sizes see economically meaningful productivity increases,
+      while those dominated by marginal holdings see little change. Evidence suggests complementarities with in-kind food transfers.
+  - title: "Electricity Access and Labor Reallocation in Rural Africa"
+    note: "Working Paper"
+    abstract: >
+      Using LSMS-ISA panels and instrumental variables based on distance to the grid and hydro resources, we study how electrification shifts labor
+      out of low-productivity farm tasks into non-farm employment and raises the productivity of remaining farm labor.
+  - title: "Input Costs and Migration: Evidence from Global Fertilizer Price Shocks"
+    note: "Working Paper"
+    abstract: >
+      We leverage plausibly exogenous changes in local fertilizer affordability—interacting soil nutrient needs with global fertilizer price swings—to identify
+      the impact of input cost shocks on rural-urban migration and farm investment.
