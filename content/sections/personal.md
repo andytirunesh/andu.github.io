@@ -1,5 +1,5 @@
-[Current reason I'm behind on everything](pasha.jpg)
++++
+title = "Personal"
++++
 
-[Fearless Sidekick](muddypaws.jpg) - Kirby passed in Aug 2016
-
-**Website**: I am grateful to [Xinyue Lin](https://xinyue-lin.com/) for building my website. Please feel welcome to use and re-purpose the code for the website, which you can find at my [GitHub repository](https://github.com/gautamrao/gautamrao.github.io). 
+Outside research, I enjoy building clean data workflows, making maps, and sharing reproducible code. When I get time off-screen, you’ll find me outdoors or experimenting with coffee.
